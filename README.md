@@ -42,7 +42,7 @@ This repository contains Python implementations of algorithms from the DSA Modul
 
 ## String Matching
 
-🔗 **File**: Naive String Matching -  [stringmatch.py](./stringmatch.py)
+🔗 **File**: Naive String Matching -  [stringmatch.py](./stringmatch.py)<br/>
 🔗 **File**: Rabin Karp - [rabinkarp.py](./rabinkarp.py)
 
 ---
