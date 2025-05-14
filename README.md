@@ -8,11 +8,11 @@ This repository contains Python implementations of algorithms from the DSA Modul
 
 ## 📑 Table of Contents
 
-1. [Insertion Sort](#insertion-sort)
-2. [Quick Sort](#quick-sort)
-3. [Merge Sort](#merge-sort)
-4. [Heap Sort](#heap-sort)
-5. [String Matching](#string-matching)
+1. [Insertion Sort](#insertion-sort)  
+2. [Quick Sort](#quick-sort)  
+3. [Merge Sort](#merge-sort)  
+4. [Heap Sort](#heap-sort)  
+5. [String Matching](#string-matching)  
 
 ---
 
@@ -36,13 +36,15 @@ This repository contains Python implementations of algorithms from the DSA Modul
 
 ## Heap Sort
 
-🔗 **File**: [heapify.py](./heapify.py)
+📁 **Folder**: [`HeapSort`](./HeapSort)  
+🔗 **File**: [heapify.py](./HeapSort/heapify.py)  
+<!-- Add more HeapSort-related files here if needed -->
 
 ---
 
 ## String Matching
 
-🔗 **File**: Naive String Matching -  [stringmatch.py](./stringmatch.py)<br/>
+🔗 **File**: Naive String Matching - [stringmatch.py](./stringmatch.py)  
 🔗 **File**: Rabin Karp - [rabinkarp.py](./rabinkarp.py)
 
 ---
@@ -64,5 +66,3 @@ Feel free to fork the repo, raise issues, or submit pull requests to improve or 
 ## 📫 Contact
 
 For questions or feedback, please open an issue in this repository.
-
----
