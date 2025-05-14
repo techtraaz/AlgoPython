@@ -38,6 +38,8 @@ This repository contains Python implementations of algorithms from the DSA Modul
 
 📁 **Folder**: [`HeapSort`](./HeapSort)  
 🔗 **File**: [heapify.py](./HeapSort/heapify.py)  
+🔗 **File**: [heapify2.py](./HeapSort/heapify2.py)  
+🔗 **File**: [heapsort.py](./HeapSort/heapsort.py)  
 <!-- Add more HeapSort-related files here if needed -->
 
 ---
