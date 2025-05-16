@@ -1,4 +1,4 @@
-#naive string matching algo
+#naive string matching algorithm
 
 def naive_string_matcher(T, P):
     n = len(T)
