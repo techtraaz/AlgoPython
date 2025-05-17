@@ -1,3 +1,5 @@
+#naive string matching algorithm
+
 def naive_string_matcher(T, P):
     n = len(T)
     m = len(P)
